@@ -9,9 +9,10 @@
 - Veja minhas badges no [Credly](https://www.credly.com/users/joao-luiz.a075ef60/badges)
 
 ## Certificações
-- AWS Cloud Practitioner ✔️
-- AZ-900: Microsoft Azure Fundamentals ✔️
-- Green Belt Six Sigma ✔️
+<div style="display: inline_block"><br>
+<img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://github.com/JoaoLuizDev/Estudando-HTML-e-CSS/blob/main/assets/aws.png">
+<img align="center" alt="AZ-900" height="100" width="100" src="https://github.com/JoaoLuizDev/Estudando-HTML-e-CSS/blob/main/assets/az-900.png">
+</div>
 
 ## Hardskill:
 <div>
