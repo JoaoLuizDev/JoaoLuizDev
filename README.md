@@ -6,13 +6,19 @@
 - 👯 Procurando parceiros de estudo e projetos
 - 💻 Cloud, Salesforce, DevOps
 - 🎓 Aluno de Ciência da Computação - Universidade Anhembi Morumbi
-- Veja minhas badges no [Credly](https://www.credly.com/users/joao-luiz.a075ef60/badges)
+- Veja minhas badges no <b>[Credly](https://www.credly.com/users/joao-luiz.a075ef60/badges)</b>
 
 ## Certificações
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/aws.png">
 <img align="center" alt="AZ-900" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/az-900.png">
 <img align="center" alt="OCI Foundation Associate" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate.png">
+</div>
+
+          
+## Principais certificados
+<div style="display: inline_block">
+<img align="center" alt="Google Análise de Dados" height="130" width="130" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/image.png"
 </div>
 
 ## Hardskill:
