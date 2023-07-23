@@ -13,6 +13,7 @@
 <img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/aws.png">
 <img align="center" alt="AZ-900" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/az-900.png">
 <img align="center" alt="OCI Foundation Associate" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate.png">
+<img align="center" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" height="105" width="105" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/37hr8ds3.png">
 </div>
 
           
