@@ -21,7 +21,7 @@
 <div style="display: inline_block">
 <img align="center" alt="Google Análise de Dados" height="130" width="130" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/image.png">
 <a href="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Certificado%20-%20Servi%C3%A7os%20de%20Nuvem%20da%20Huawei%20ICT%20Academy%20-%20IFSP.pdf" target="_blank" rel="noreferrer"</a>
-<img align="center" alt="Curso Huawei - IFSP" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/ifsp-instituto-federal-de-educacao-ciencia-e-tecnologia-de-sao-paulo.png"> 
+<img align="center" alt="Curso Huawei - IFSP" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/ifsp-instituto-federal-de-educacao-ciencia-e-tecnologia-de-sao-paulo.png"> 
 </div>
 
 ## Hardskill:
