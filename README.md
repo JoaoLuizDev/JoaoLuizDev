@@ -66,5 +66,4 @@ Planejamento, comunicação, trabalho em equipe, criatividade, trabalhar sob pre
 ![Stats](https://github-readme-stats.vercel.app/api?username=JoaoLuizDev&show_icons=true&theme=monokai&count_private=true&hide_border=true&include_all_commits=true)  
 
 
-![Snake animation](https://github.com/JoaoLuizDev/JoaoLuizDev/blob/output/github-contribution-grid-snake.svg)
 
