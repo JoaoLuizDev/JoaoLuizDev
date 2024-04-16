@@ -21,6 +21,8 @@
 <img align="center" alt="OCI Foundation Associate" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate.png">
 <img align="center" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" height="105" width="105" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/37hr8ds3.png">
 <img align="center" alt="Curso Huawei - IFSP" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/ifsp-instituto-federal-de-educacao-ciencia-e-tecnologia-de-sao-paulo.png"> 
+<img align="center" alt="Hackers do Bem - Nivelamento" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Nivelamento.png">  
+<img align="center" alt="Hackers do Bem - Básico" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/B%C3%A1sico.png">  
 </div>
 
 ## Hardskill:
