@@ -28,7 +28,7 @@
 <img align="center" alt="Hackers do Bem - Nivelamento" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Nivelamento.png">  
 <img align="center" alt="Hackers do Bem - Básico" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/B%C3%A1sico.png">  
 <img align="center" alt="Google Análise de Dados" height="130" width="130" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/badge-challenge-decodificador.png">
-<a href="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/badge-challenge-decodificador.png" target="_blank" rel="noreferrer"</a>
+<img  align="center" alt="AI Skills Challenge 2024" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/9dcadebe-400a-405c-878c-e53ae55fe3a2.png">
 </div>
           
 ## Hardskill:
