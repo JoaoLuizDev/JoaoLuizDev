@@ -67,10 +67,9 @@ Planejamento, comunicação, trabalho em equipe, criatividade, trabalhar sob pre
   <a href="https://medium.com/@joaoluizcienciacomp"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
-## Estatísticas
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuizDev&layout=compact&show_icons=true&hide_border=true&theme=monokai&langs_count=10) 
-![Stats](https://github-readme-stats.vercel.app/api?username=JoaoLuizDev&show_icons=true&theme=monokai&count_private=true&hide_border=true&include_all_commits=true)  
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoLuizDev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoLuizDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
