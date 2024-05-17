@@ -5,7 +5,7 @@
 - 🌱 Estudando atualmente Cloud, Security, Python, HTML e CSS
 - 💻 Cloud, Salesforce, DevOps
 - 🎓 Aluno de Ciência da Computação - Universidade Anhembi Morumbi
-- Veja minhas badges no <b>[Credly](https://www.credly.com/users/joao-luiz.a075ef60/badges)</b>
+- Veja minhas badges no <b>[Credly](https://www.credly.com/users/joaoluizbr/badges)</b>
 
 ## Certificações
 <div style="display: inline_block">
