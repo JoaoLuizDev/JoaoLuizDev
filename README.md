@@ -15,13 +15,21 @@
           
 ## Principais certificados
 <div style="display: inline_block">
-<img align="center" alt="Google Análise de Dados" height="130" width="130" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/image.png">
-<a href="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Certificado%20-%20Servi%C3%A7os%20de%20Nuvem%20da%20Huawei%20ICT%20Academy%20-%20IFSP.pdf" target="_blank" rel="noreferrer"</a>
+
 <img align="center" alt="OCI Foundation Associate" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate.png">
 <img align="center" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" height="105" width="105" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/37hr8ds3.png">
-<img align="center" alt="Curso Huawei - IFSP" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/ifsp-instituto-federal-de-educacao-ciencia-e-tecnologia-de-sao-paulo.png"> 
-
+<img align="center" alt="Curso Huawei - IFSP" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/ifsp-instituto-federal-de-educacao-ciencia-e-tecnologia-de-sao-paulo.png" > 
 </div>
+
+## Certificado Profissional Google
+<div>
+<img align="center" alt="Google Análise de Dados" height="130" width="130" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/image.png">
+<img align="center" alt="UX Design - Coursera" height="130" width="130" src="https://images.credly.com/size/340x340/images/7f90b198-4603-44e4-b5ab-13bd354df3e4/image.png">
+<img align="center" alt="Suporte em TI - Coursera" height="130" width="130" src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png">
+<img align="center" alt="Gerenciamento de Projetos - Coursera" height="130" width="130" src="https://images.credly.com/images/bfc50d7c-7fc4-4d19-9301-7a2d30b81c87/image.png">
+<img align="center" alt="Marketing Digital - Coursera" height="130" width="130" src="https://images.credly.com/size/340x340/images/3772342b-0da9-468b-aa4e-9c0a9e9f00a6/image.png">
+</div>
+
 
 ## Badges
 <div style="display: inline_block">
@@ -30,6 +38,7 @@
 <img align="center" alt="Google Análise de Dados" height="130" width="130" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/badge-challenge-decodificador.png">
 <img  align="center" alt="AI Skills Challenge 2024" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/9dcadebe-400a-405c-878c-e53ae55fe3a2.png">
 </div>
+
           
 ## Hardskill:
 <div>
