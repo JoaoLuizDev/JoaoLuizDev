@@ -2,8 +2,8 @@
 
 ## Info
 - 💫 Em transição de carreira.
-- 🌱 Estudando atualmente Cloud, Security, Python, HTML e CSS
-- 💻 Cloud, Salesforce, DevOps
+- 🌱 Estudando atualmente Cloud, Python, HTML e CSS
+- 💻 Cloud, DevOps
 - 🎓 Aluno de Ciência da Computação - Universidade Anhembi Morumbi
 - Veja minhas badges no <b>[Credly](https://www.credly.com/users/joaoluizbr/badges)</b>
 
