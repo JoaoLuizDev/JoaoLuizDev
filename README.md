@@ -1,4 +1,4 @@
-<img align="right" alt="Banner de apresentação João Luiz" height="100%" src="/assets/banner.gif">
+<img align="right" alt="Banner de apresentação João Luiz" height="100%" src="/.github/assets/banner.gif">
 
 # Sobre Mim
 <img align="right" alt="Avatar João Luiz" height="450" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/avatar.png">
@@ -24,12 +24,12 @@ Estou em busca da primeira oportunidade no mercado de trabalho na área da tecno
 </p>
 
 # Acesso rápido
-[![Projetos](https://img.shields.io/badge/-Projetos-0d7cc2?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://link-para-seus-projetos)
-[![Certificações](https://img.shields.io/badge/-Certificações-0d7cc2?style=for-the-badge&logo=medal&logoColor=FFFFFF)](https://link-para-seus-projetos)
-[![Certificados](https://img.shields.io/badge/-Certificados-0d7cc2?style=for-the-badge&logo=files&logoColor=FFFFFF)](https://link-para-seus-certificados)
-[![Coursera](https://img.shields.io/badge/-Coursera-64C9CF?style=for-the-badge&logo=coursera&logoColor=FFFFFF&color=0d7cc2&border_radius=5&border_color=1B1E3E)](https://www.coursera.org/learner/joaoluizdev)
-[![Dio](https://img.shields.io/badge/-DIO-64C9CF?style=for-the-badge&logo=disqus&logoColor=FFFFFF&color=0d7cc2)](https://www.dio.me/users/joaoluizcienciacomp)
-[![Alura](https://img.shields.io/badge/-Alura-64C9CF?style=for-the-badge&logo=alamy&logoColor=FFFFFF&color=0d7cc2)](https://cursos.alura.com.br/user/joaoluizcienciacomp)
+[![Projetos](https://img.shields.io/badge/-Projetos-000000?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://link-para-seus-projetos)
+[![Certificações](https://img.shields.io/badge/-Certificações-000000?style=for-the-badge&logo=medal&logoColor=FFFFFF)](https://link-para-seus-projetos)
+[![Certificados](https://img.shields.io/badge/-Certificados-000000?style=for-the-badge&logo=files&logoColor=FFFFFF)](https://link-para-seus-certificados)
+[![Coursera](https://img.shields.io/badge/-Coursera-64C9CF?style=for-the-badge&logo=coursera&logoColor=FFFFFF&color=000000&border_radius=5&border_color=1B1E3E)](https://www.coursera.org/learner/joaoluizdev)
+[![Dio](https://img.shields.io/badge/-DIO-64C9CF?style=for-the-badge&logo=disqus&logoColor=FFFFFF&color=000000)](https://www.dio.me/users/joaoluizcienciacomp)
+[![Alura](https://img.shields.io/badge/-Alura-64C9CF?style=for-the-badge&logo=alamy&logoColor=FFFFFF&color=000000)](https://cursos.alura.com.br/user/joaoluizcienciacomp)
 
 # Certificações
 <div style="display: inline_block">
@@ -55,14 +55,13 @@ Estou em busca da primeira oportunidade no mercado de trabalho na área da tecno
 
 # GitHub Stats
 <div style="text-align: center;" align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaoluizdev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=0d7cc2&title_color=FFFFFF&text_color=FFFFFF&border_radius=5&border_color=2A2A2A&icon_color=FFFFFF&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaoluizdev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=5&border_color=2A2A2A&icon_color=FFFFFF&theme=jolly" alt="GitHub stats">
 
 <a href="https://github.com/mari4souza/github-readme-stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaoluizdev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&hide=html,scss,less&bg_color=0d7cc2&text_color=FFFFFF&border_radius=3&border_color=2A2A2A&icon_color=FFFFFF&count_private=true" alt="Most Used Languages">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaoluizdev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&hide=html,scss,less&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=2A2A2A&icon_color=FFFFFF&count_private=true" alt="Most Used Languages">
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joaoluizdev&theme=github-default&locale=pt_BR&card_width=550&background=0d7cc2&border=2A2A2A&ring=ffffff&fire=FF6347&stroke=2A2A2A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaoluizdev&theme=github-default&locale=pt_BR&card_width=550&background=000000&border=2A2A2A&ring=ffffff&fire=FF6347&stroke=2A2A2A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
 </div>
 
 <picture align="center">
