@@ -1,7 +1,7 @@
 <img align="right" alt="Banner de apresentação João Luiz" height="100%" src="/.github/assets/banner.gif">
 
 # Sobre Mim
-<img align="right" alt="Avatar João Luiz" height="450" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/avatar.png">
+<img align="right" alt="Avatar João Luiz" height="450" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/avatar-background.png">
 
 <p align="justify">
 Meu nome é <strong>João Luiz</strong>, estou cursando o 7º semestre do curso de <strong>Ciência da Computação</strong> na Universidade Anhembi Morumbi.
