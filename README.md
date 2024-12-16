@@ -24,9 +24,9 @@ Estou em busca da primeira oportunidade no mercado de trabalho na área da tecno
 </p>
 
 # Acesso rápido
-[![Projetos](https://img.shields.io/badge/-Projetos-000000?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://link-para-seus-projetos)
-[![Certificações](https://img.shields.io/badge/-Certificações-000000?style=for-the-badge&logo=medal&logoColor=FFFFFF)](https://link-para-seus-projetos)
-[![Certificados](https://img.shields.io/badge/-Certificados-000000?style=for-the-badge&logo=files&logoColor=FFFFFF)](https://link-para-seus-certificados)
+[![Projetos](https://img.shields.io/badge/-Projetos-000000?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](#)
+[![Certificações](https://img.shields.io/badge/-Certificações-000000?style=for-the-badge&logo=medal&logoColor=FFFFFF)](#)
+[![Certificados](https://img.shields.io/badge/-Certificados-000000?style=for-the-badge&logo=files&logoColor=FFFFFF)](#)
 [![Coursera](https://img.shields.io/badge/-Coursera-64C9CF?style=for-the-badge&logo=coursera&logoColor=FFFFFF&color=000000&border_radius=5&border_color=1B1E3E)](https://www.coursera.org/learner/joaoluizdev)
 [![Dio](https://img.shields.io/badge/-DIO-64C9CF?style=for-the-badge&logo=disqus&logoColor=FFFFFF&color=000000)](https://www.dio.me/users/joaoluizcienciacomp)
 [![Alura](https://img.shields.io/badge/-Alura-64C9CF?style=for-the-badge&logo=alamy&logoColor=FFFFFF&color=000000)](https://cursos.alura.com.br/user/joaoluizcienciacomp)
