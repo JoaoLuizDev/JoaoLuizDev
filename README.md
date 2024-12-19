@@ -69,3 +69,8 @@ Estou em busca da primeira oportunidade no mercado de trabalho na área da tecno
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoluizdev/joaoluizdev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaoluizdev/joaoluizdev/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center"> 
+    <br><p align="center"><b>Contador de visitantes</b></p>
+    <p aling="center"><img aling="center" src="https://profile-counter.glitch.me/{joaoluizdev}/count.svg" /></p>
+</div>
