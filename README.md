@@ -50,7 +50,7 @@ Estou em busca da primeira oportunidade no mercado de trabalho na área da tecno
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@joaoluizcienciacomp)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joaoluizcienciacomp)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jlcloudtec) 
-[![Meu Portfólio](https://img.shields.io/badge/-Meu%20Portfólio-2CA9E1?style=for-the-badge&logo=protondrive&logoColor=white)](https://seusite.com)
+[![Meu Portfólio](https://img.shields.io/badge/-Meu%20Portfólio-2CA9E1?style=for-the-badge&logo=protondrive&logoColor=white)](#)
 [![Credly](https://img.shields.io/badge/-Credly-0A63A1?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/joaoluizbr)
 
 # GitHub Stats
