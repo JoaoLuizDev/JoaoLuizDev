@@ -37,7 +37,7 @@ Estou em busca da primeira oportunidade no mercado de trabalho na área da tecno
           <img align="center" alt="AZ-900" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/az-900.png">
           <img align="center" alt="SC-900" height="100" width="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/SC900.png">
           <img align="center" alt="FinOps Practitioner" height="100" width="100"  src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/finops.png">                    
-          <img align="center" alt="FinOps Engineer" height="100" width="100"  src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/finops-engineer.png">
+          <img align="center" alt="FinOps Engineer" height="100" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/finops-engineer.png">
           <img align="center" alt="GitHub Foundations" height="100" width="100"  src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/github-foundations.png">
           <img align="center" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" height="100" width="100"  src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate.png">
           <img align="center" alt="Oracle Cloud Infrastructure AI Foundations" height="100" width="100"  src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Oracle-Cloud-Infra-AI.png">
