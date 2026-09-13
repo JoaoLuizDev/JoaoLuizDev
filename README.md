@@ -4,23 +4,19 @@
 <img align="right" alt="Avatar João Luiz" height="450" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/avatar-background.png">
 
 <p align="justify">
-Meu nome é <strong>João Luiz</strong>, estou cursando o 7º semestre do curso de <strong>Ciência da Computação</strong> na Universidade Anhembi Morumbi.
+Meu nome é <strong>João Luiz</strong>, atuo como Analista de TI, formado no curso <strong>Ciência da Computação</strong> na Universidade Anhembi Morumbi.
 </p>
 
 <p align="justify">
-Tenho experiência em rotina administrativa e vendas. Formado em História em 2010, trabalhei como professor por 10 anos. Em 2021, iniciei estudos na área de tecnologia e em 2023 comecei minha transição de carreira. Desde então, venho realizando cursos, construindo projetos que envolvem automação, infraestrutura em nuvem e observabilidade, para reforçar a aprendizagem e me preparando para exames de certificações.
+Tenho experiência em rotina administrativa e vendas. Formado em História em 2010, trabalhei como professor. Em 2021, iniciei estudos na área de tecnologia e em 2023 comecei minha transição de carreira, fazendo estágio em TI por dois anos na Prefeitura Municipal de Ubatuba. Desde então, vejo realizando cursos, construindo projetos que envolvem automação, infraestrutura em nuvem e observabilidade, para reforçar a aprendizagem e me preparando para exames de certificações.
 </p>
 
 <p align="justify">
-Atualmente, faço estágio na área de <strong>TI</strong> na <strong>Prefeitura Municipal de Ubatuba</strong>.
+Atualmente, faço atuo como Analista de Suporte na Unodata.
 </p>
 
 <p align="justify">
 Meu foco é Cloud, DevOps, FinOps e Inteligência Artificial.
-</p>
-
-<p align="justify">
-Estou em busca da primeira oportunidade no mercado de trabalho na área da tecnologia, oferecendo minha experiência em áreas distintas, demonstrando adaptabilidade, dedicação, capacidade de aprendizagem, empatia, comunicação e resolução de problemas focada no usuário. 
 </p>
 
 # Acesso rápido
